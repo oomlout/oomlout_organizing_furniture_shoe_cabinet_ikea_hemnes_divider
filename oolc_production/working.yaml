@@ -4,4 +4,6 @@ project_description: Oomlout Organizing Furniture Shoe Cabinet Ikea Hemnes Divid
 project_repo: https://github.com/oomlout/oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
 production_format: 
   oolc_1_furniture_shoe_cabinet_ikea_hemnes_divider_divider_main: 
-    file_location: source_files/oolc_1.cdr
+    file_location: source_files/oolc_1.cdr 
+  oolc_2_furniture_shoe_cabinet_ikea_hemnes_divider_divider_slot_piece: 
+    file_location: source_files/oolc_2.cdr
